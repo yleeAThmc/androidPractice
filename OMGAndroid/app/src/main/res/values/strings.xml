@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OMG Android</string>
+    <string name="textview">Kelly is learning Android!</string>
+    <string name="hello_world2">Second string</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">Your name goes here!</string>
+
+</resources>
